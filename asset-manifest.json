@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nikhil_portfolio/static/css/main.be43f82e.css",
+    "main.js": "/nikhil_portfolio/static/js/main.2d6397ed.js",
+    "index.html": "/nikhil_portfolio/index.html",
+    "main.be43f82e.css.map": "/nikhil_portfolio/static/css/main.be43f82e.css.map",
+    "main.2d6397ed.js.map": "/nikhil_portfolio/static/js/main.2d6397ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be43f82e.css",
+    "static/js/main.2d6397ed.js"
+  ]
+}
