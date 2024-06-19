@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: '/',
+  homepage: '/nikhil_portfolio',
   title: '<NP />',
 }
 
@@ -11,7 +11,7 @@ const about = {
   description:
     'Hello! I am Nikhil Pathak, a frontend engineer with a passion for crafting seamless user experiences. With expertise in HTML, CSS, and JavaScript, I specialize in turning ideas into polished interfaces. I thrive on exploring new technologies like React.js and Angular to build dynamic web applications. Lets collaborate and bring your digital vision to life!',
   resume:
-    'https://drive.google.com/file/d/1FITCO4J8jhK52VqNkSxjpH18ySdcuecM/view?usp=sharing',
+    'https://drive.google.com/file/d/1XTjTEW303_mTVJ5RGen4zQdYoPKl_KBY/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/nikhil-pathak-597708196/',
     github: 'https://github.com/nikpathak9',
